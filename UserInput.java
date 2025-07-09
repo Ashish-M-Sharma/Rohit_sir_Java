@@ -13,7 +13,7 @@ class UserInput {
         System.out.println("Enter B:");
         b = sc.nextInt();
         c = a + b;
-        System.out.println("Addition:" + c);
+      
 
     }
 
